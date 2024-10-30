@@ -1,0 +1,39 @@
+{
+    "FCAOption": {
+        "forceLogin": true,
+        "listenEvents": true,
+        "pauseLog": true,
+        "logLevel": "silent",
+        "selfListen": true,
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:87.0) Gecko/20100101 Firefox/87.0"
+    },
+    "language": "vi",
+    "DeveloperMode": false,
+    "autoCreateDB": true,
+    "allowInbox": true,
+    "commandDisabled": [],
+    "eventDisabled": [],
+    "EMAIL": "",
+    "PASSWORD": "",
+    "OTPKEY": "",
+    "BOTNAME": "Mirai-V3",
+    "PREFIX": "!",
+    "BOXADMIN": "27601674442781146",
+    "ADMINBOT": [],
+    "NDH": [
+        "100082972674528"
+    ],
+    "version": "3.0.0",
+    "menu": {
+        "autoUnsend": {
+            "status": true,
+            "timeOut": 60
+        }
+    },
+    "log": {
+        "enable": true
+    },
+    "checktt": {
+        "maxColumn": 10
+    }
+}
